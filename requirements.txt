@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+gtts
+joblib
+pyaudio
+vosk
+googletrans==4.0.0rc1
